@@ -1,0 +1,8 @@
+<?php 
+$x=" Ishan Software";// This is variable declaration 
+/* htgsdhgfshgfsjyusdfgsdiuysdjhsdiulysdgsduyygwdyhtawgiuwyeiuqwetgiqedyqiuytqiuegyhuythduyqwegtfiquwgduqtgeuuy91etg1eyt87t87ett
+iguhsfihugwdahjydiu7gsiyugtrqtge87qetq7ytqiutqa87edytqeqytqytg7td978ewedyi9edt7tyd7td86qtg879qydqedrfq7eyde7teeye3e
+yhfewi87ugtweuiygtqwe87tq37yu3etq873ey78et78ey1q6wt`98wtq13867e12tr86re9823ey2837et87er2tr8y738tr6rt6yhwiurfgtiuywfhgeiorgqeyuwyfgfeoi
+*/
+echo $x;
+?>
