@@ -13,5 +13,13 @@
  echo $f . "<br>";
  echo $g . "<br>";
  echo $h . "<br>";
+ echo $a++ . "<br>";
+ echo $b++ . "<br>";
+ echo $a-- . "<br>";
+ echo $b-- . "<br>";
+ echo ++$a . "<br>";
+ echo ++$b . "<br>";
+ echo --$a . "<br>";
+ echo --$b . "<br>";
 //  echo $c  . $d . $e . $f . $g . $h ;
 ?>
