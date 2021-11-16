@@ -7,7 +7,7 @@
  $f=$a ** $b;
  $g=$a / $b;
  $h=$a % $b;
-$i=$a + $b * 2;
+$i=($a + $b) * 2;
  echo $c . "<br>";
  echo $d . "<br>";
  echo $e . "<br>";
